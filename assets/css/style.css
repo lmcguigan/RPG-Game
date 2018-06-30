@@ -1,0 +1,23 @@
+.FruitClass:hover {
+    cursor: pointer;
+    border: 1px solid black;
+}
+
+.FruitClass {
+    border: 1px solid black;
+    margin: 10px;
+}
+
+.row {
+    margin: 0 auto;
+}
+
+h2 {
+    font-family: 'Fredoka One', cursive;
+}
+.enemy{
+    background: red;
+}
+.currentdefender{
+    background: pink;
+}
